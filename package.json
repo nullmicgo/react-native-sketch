@@ -3,6 +3,7 @@
   "version": "1.1.0",
   "description": "A react-native component for touch-based drawing",
   "main": "index.ios.js",
+  "homepage": "https://www.nullmicgo.com",
   "dependencies": {
     "prop-types": "^15.5.10"
   },
